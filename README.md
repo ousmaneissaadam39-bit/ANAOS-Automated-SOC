@@ -24,7 +24,7 @@
 Le système intègre **Wazuh** comme moteur SIEM/XDR centralisé, **pfSense avec Suricata** pour la détection d'intrusions réseau, **Sysmon** et **Auditd** pour la télémesure hôte, ainsi qu'**Ansible** pour le déploiement automatisé (*Zero-Touch Provisioning*). Une interface sur mesure en Python (`anaos_gui.py`) assure le tri en temps réel, le calcul du **MTTD** (*Mean Time to Detect*) et le suivi du taux de faux positifs (**FPR**).
 
 📄 **Le chapitre de recherche complet est disponible au format PDF :**  
-👉 [`ANAOS_SOC_Deployment_Coverage.pdf`](./ANAOS_SOC_Deployment_Coverage.pdf)
+👉 [`ANAOS-Automated-SOC.pdf`](./ANAOS-Automated-SOC.pdf)
 
 ---
 
